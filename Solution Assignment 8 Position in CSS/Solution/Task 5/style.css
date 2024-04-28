@@ -1,0 +1,30 @@
+.container{
+    position: relative;
+}
+
+.box{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    text-align: right;
+}
+
+.box1{
+    background-color: red;
+}
+
+.box2{
+    background-color: blue;
+    top: 50px;
+    left: 50px;
+    z-index: 1;
+}
+
+.box3{
+    background-color: green;
+    top: 100px;
+    left: 100px;
+}

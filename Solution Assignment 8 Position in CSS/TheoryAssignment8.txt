@@ -1,0 +1,30 @@
+Question 1:
+
+	File Name: 
+		1. index1.html
+		2. Output1.png
+		1. index2.html
+		2. Output2.png
+............................................................................................................................................
+
+Question 2:  Difference between Absolute and Relative position
+
+	1. Absolute Syntax: position: absolute;
+	   Relative Syntax: position: relative;
+
+	2. With Absolute positioning, an element is positioned relative to its nearest positioned ancestors
+	   With Relative positioning, an element can be moved up, down, left or right from its normal position.
+
+	3. Absolute will not break the normal document flow to position the element on the page.
+	   Relative will break the normal document flow to position the element on the page.
+
+	4. The element will leave the space as its original position and other content will not be adjusted to fit into any gap left by the element.
+	   The element will not leave any space in its original position.
+............................................................................................................................................
+
+Question 3:
+	File Name: 
+		1. index.html
+		2. Output.png
+............................................................................................................................................
+
